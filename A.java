@@ -11,9 +11,6 @@ package a;
  */
 public class A {
 
-    /**
-     * @param args the command line arguments
-     */
     private int A1;
     private float A2;
 
