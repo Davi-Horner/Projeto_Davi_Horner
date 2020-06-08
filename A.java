@@ -1,10 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package a;
-
 /**
  *
  * @author davih
@@ -36,5 +29,9 @@ public class A {
     
      public void MA2(){
         System.out.println("MA2");
+    }
+
+    public void MA3(){
+        System.out.println("Alteraçao a classe A partir do clone");
     }
 }
