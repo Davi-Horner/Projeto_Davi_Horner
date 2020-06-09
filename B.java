@@ -1,14 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package a;
-
-/**
- *
- * @author davih
- */
 public class B {
     private int B1;
     private float B2;
@@ -29,11 +18,15 @@ public class B {
         this.B2 = B2;
     }
     
-     public void MB1(){
+    public void MB1(){
         System.out.println("MB1");
     }
      
-      public void MB2(){
+    public void MB2(){
         System.out.println("MB2");
+    }
+
+    public void MB3(){
+        System.out.println("MB3");
     }
 }
