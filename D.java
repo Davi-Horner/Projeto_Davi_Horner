@@ -10,9 +10,11 @@ public class D(){
         System.out.printl("MD2");
     }
 
-
-    
     private void MD3(){
         System.out.printl("MD3");
+    }
+
+    private void MD4(){
+        System.out.printl("MD4");
     }
 }
