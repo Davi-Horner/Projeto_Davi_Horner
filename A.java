@@ -1,7 +1,3 @@
-/**
- *
- * @author davih
- */
 public class A {
 
     private int A1;
